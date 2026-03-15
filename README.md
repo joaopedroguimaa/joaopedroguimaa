@@ -5,7 +5,6 @@
 <br>
 
 <div align="center">
-  <sub>conectando lógica matemática e código limpo</sub>
 </div>
 
 <br>
