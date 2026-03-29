@@ -45,11 +45,6 @@ apaixonado por matemática aplicada, design de algoritmos e pipelines que fazem 
 
 **métricas**
 
-<div align="center">
-  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=joaopedroguimaa&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=aaaaaa&text_color=888888&icon_color=aaaaaa" />
-  &nbsp;
-  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedroguimaa&layout=compact&langs_count=5&theme=github_dark&hide_border=true&bg_color=00000000&title_color=aaaaaa&text_color=888888&exclude_repo=pi_poligame_imt" />
-</div>
 
 <div align="center">
   <img width="380" src="https://github-readme-streak-stats.herokuapp.com/?user=joaopedroguimaa&theme=github-dark-blue&hide_border=true&background=00000000&stroke=444444&ring=888888&fire=aaaaaa&currStreakLabel=aaaaaa&sideLabels=888888&dates=666666&currStreakNum=cccccc&sideNums=cccccc" />
