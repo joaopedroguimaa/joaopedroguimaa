@@ -22,17 +22,9 @@ apaixonado por matemática aplicada, design de algoritmos e pipelines que fazem 
 **stack**
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python&theme=dark" width="36" height="36" />
+  <img src="https://skillicons.dev/icons?i=python,nodejs,postgres,mongodb,sqlite&theme=dark" />
   &nbsp;
-  <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="36" height="36" />
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="36" height="36" />
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="36" height="36" />
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=sqlite&theme=dark" width="36" height="36" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="36" height="36" />
+
 </div>
 
 <br>
@@ -72,5 +64,5 @@ apaixonado por matemática aplicada, design de algoritmos e pipelines que fazem 
 <br><br>
 
 <div align="center">
-  <sub>construído com precisão matemática e café &nbsp;·&nbsp; © 2026</sub>
+  <sub>construído com precisão &nbsp;·&nbsp; © 2026</sub>
 </div>
